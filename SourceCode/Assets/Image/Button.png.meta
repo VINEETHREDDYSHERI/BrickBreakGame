@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: 0bd23cde3ea094c918899b787390f2a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4186435561538421234
+    second: "\u2014Pngtree\u2014colorful game ui buttons set_5993692_0"
+  - first:
+      213: -5301312407376103213
+    second: "\u2014Pngtree\u2014colorful game ui buttons set_5993692_1"
+  - first:
+      213: -3589697975576252639
+    second: "\u2014Pngtree\u2014colorful game ui buttons set_5993692_2"
+  - first:
+      213: -1912751307541625825
+    second: "\u2014Pngtree\u2014colorful game ui buttons set_5993692_3"
+  - first:
+      213: 3054471984956772744
+    second: "\u2014Pngtree\u2014colorful game ui buttons set_5993692_4"
+  - first:
+      213: 5708052145168740977
+    second: "\u2014Pngtree\u2014colorful game ui buttons set_5993692_5"
+  - first:
+      213: 7848144319398409847
+    second: "\u2014Pngtree\u2014colorful game ui buttons set_5993692_6"
+  - first:
+      213: 8234843472700294638
+    second: "\u2014Pngtree\u2014colorful game ui buttons set_5993692_7"
+  - first:
+      213: 8833719731697705120
+    second: "\u2014Pngtree\u2014colorful game ui buttons set_5993692_8"
+  - first:
+      213: -8419516457301206005
+    second: "\u2014Pngtree\u2014colorful game ui buttons set_5993692_9"
+  - first:
+      213: 7940410816454815981
+    second: "\u2014Pngtree\u2014colorful game ui buttons set_5993692_10"
+  - first:
+      213: 1840983982107453564
+    second: "\u2014Pngtree\u2014colorful game ui buttons set_5993692_11"
+  - first:
+      213: -2266537850587368757
+    second: "\u2014Pngtree\u2014colorful game ui buttons set_5993692_12"
+  - first:
+      213: -3277806647753151539
+    second: "\u2014Pngtree\u2014colorful game ui buttons set_5993692_13"
+  - first:
+      213: -6054590911089725557
+    second: "\u2014Pngtree\u2014colorful game ui buttons set_5993692_14"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful game ui buttons set_5993692_0"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 408
+        width: 521
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f18f8866f4391a30800000000000000
+      internalID: 4186435561538421234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful game ui buttons set_5993692_1"
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 939
+        width: 197
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8f9faf374fd66b0800000000000000
+      internalID: -5301312407376103213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful game ui buttons set_5993692_2"
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 941
+        width: 198
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fa6d2d5b4de2ec0800000000000000
+      internalID: -3589697975576252639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful game ui buttons set_5993692_3"
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 812
+        width: 522
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14415ae1da8475e0800000000000000
+      internalID: -1912751307541625825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful game ui buttons set_5993692_4"
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 628
+        width: 242
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8811bb7461aa36a20800000000000000
+      internalID: 3054471984956772744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful game ui buttons set_5993692_5"
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 628
+        width: 242
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1727038fe23173f40800000000000000
+      internalID: 5708052145168740977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful game ui buttons set_5993692_6"
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 454
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776fdbf5da53aec60800000000000000
+      internalID: 7848144319398409847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful game ui buttons set_5993692_7"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 454
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5ce33228a084270800000000000000
+      internalID: 8234843472700294638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful game ui buttons set_5993692_8"
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 454
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0633dfa4da79a70800000000000000
+      internalID: 8833719731697705120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful game ui buttons set_5993692_9"
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 454
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c910ef36ed72b80800000000000000
+      internalID: -8419516457301206005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful game ui buttons set_5993692_10"
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 135
+        width: 198
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de075754191023e60800000000000000
+      internalID: 7940410816454815981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful game ui buttons set_5993692_11"
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 135
+        width: 198
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78e2b28d2d7c8910800000000000000
+      internalID: 1840983982107453564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful game ui buttons set_5993692_12"
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 135
+        width: 198
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc233c165d3ab80e0800000000000000
+      internalID: -2266537850587368757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful game ui buttons set_5993692_13"
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 135
+        width: 198
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb624e6834e282d0800000000000000
+      internalID: -3277806647753151539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014colorful game ui buttons set_5993692_14"
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 135
+        width: 198
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f203c15a5c9fba0800000000000000
+      internalID: -6054590911089725557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fbabc2b0d421640fa8c1844aa84ee104
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
